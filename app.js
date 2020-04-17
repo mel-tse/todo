@@ -1,5 +1,5 @@
 //clears local storage
-// localStorage.clear();
+//localStorage.clear();
 
 //Selectors
 //The text
