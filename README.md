@@ -14,4 +14,4 @@ My personal goals when creating this was to understand:
 </ul>
 </p>
 <p>Click the image below to see it in action.</p>
-<img href="https://todolockdown.netlify.app/" src="lockdown.png">
+<a href="https://todolockdown.netlify.app/"><img src="lockdown.png"></a>
