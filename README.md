@@ -8,9 +8,9 @@ My personal goals when creating this was to understand:
 <ul>
     <li>How to create variables.</li>
      <li>How to create event listeners with a click function.</li>
-     <li>Understanding what functions are.</li>
+     <li>What functions are.</li>
      <li>Creating divs dynamically and appending them to their parent.</li>
-     <li>Understanding what local storage is.</li>
+     <li>Local storage, and how to use it.</li>
 </ul>
 </p>
 <p>Click the image below to see it in action.</p>
