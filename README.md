@@ -2,8 +2,8 @@
 
 <b>To do List project</b>
 
-<p>You can add a task to the list and complete it. This will also allow you to filter your taks between: All, Completed and Uncompleted.
-You will be able to delete the to do with the trash can icon, or check the tick icon to complete it. 
+<p>This mini app enables you to add a task to the list and complete it. You can filter them between: <b>All, Completed</b> and <b>Uncompleted.</b>
+You will be able to delete the to do you created with the trash can icon, or check the tick button to complete it. When the page is refreshed you will still see the list, as it is saved in your local storage.
 My personal goals when creating this was to understand:
 <ul>
     <li>How to create variables.</li>
